@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "keyword": "en",
+    "languageData": {
+      "gameOverText": "Game Over",
+      "playBtnText": "Play"
+    }
+  },
+  {
+    "id": 1,
+    "keyword": "ru",
+    "languageData": {
+      "gameOverText": "Игра закончена",
+      "playBtnText": "Играть в"
+    }
+  }
+]
